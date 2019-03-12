@@ -1,6 +1,6 @@
 # HW3
 1)
-! [](ex1-2.PNG)
+! [https://github.com/pofilippova/HW3/blob/master/ex1-2.png](ex1-2.PNG)
 2)
 ! [](ex1-2.PNG)
 3)

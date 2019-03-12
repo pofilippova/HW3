@@ -12,4 +12,4 @@
 5)
 ! [https://github.com/pofilippova/HW3/blob/master/ex5.png](ex5.PNG)
 6)
-! [](ex6.PNG)
+! [https://github.com/pofilippova/HW3/blob/master/ex6.png](ex6.PNG)

@@ -4,7 +4,7 @@
 2)
 ! [https://github.com/pofilippova/HW3/blob/master/ex1-2.png](ex1-2.PNG)
 3)
-! [](ex3.PNG)
+! [https://github.com/pofilippova/HW3/blob/master/ex3.png](ex3.PNG)
 4)
 ! [](ex4.1.PNG)
 ! [](ex4.2.PNG)

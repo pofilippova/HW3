@@ -13,4 +13,5 @@
 ![https://github.com/pofilippova/HW3/blob/master/ex5.png](ex5.png)
 6)
 ![https://github.com/pofilippova/HW3/blob/master/ex6.png](ex6.png)
+График слова "орда"
 ![](picture.PNG)

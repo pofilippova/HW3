@@ -19,3 +19,10 @@
 1. AntConc
 №4
 ![](hw_ex4.1.png)
+![](hw_ex4.2.png)
+![](hw_ex4.3.png)
+№5
+![](hw_ex5.png)
+![](hw_ex5.1.png)
+№6
+![](hw_ex6.png)

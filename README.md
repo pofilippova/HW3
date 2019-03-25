@@ -15,3 +15,7 @@
 ![https://github.com/pofilippova/HW3/blob/master/ex6.png](ex6.png)
 График частотности слова "орда"
 ![](picture.PNG)
+Домашняя работа:
+1. AntConc
+№4
+![](hw_ex4.1.png)

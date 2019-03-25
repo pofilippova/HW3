@@ -26,3 +26,4 @@
 ![](hw_ex5.1.png)
 №6
 ![](hw_ex6.png)
+2. Google Ngrams и НКРЯ 
